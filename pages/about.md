@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Anusha Datta" width="200">
+<img class="img-rounded" src="/assets/img/profile_ad.jpg" alt="Anusha Datta" width="300">
 
 ## Bio
 
