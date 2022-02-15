@@ -307,13 +307,6 @@
     
     
         <url>
-            <loc>/tel-aviv-port/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2021-12-25</lastmod>
-        </url>
-    
-        <url>
             <loc>/drummer-at-the-beach/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
